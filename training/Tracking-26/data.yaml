@@ -1,0 +1,14 @@
+names:
+- frisbee
+- observer
+- player
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: tracking-w8biu
+  url: https://universe.roboflow.com/frisbee-tracker/tracking-w8biu/dataset/26
+  version: 26
+  workspace: frisbee-tracker
+test: ../test/images
+train: Tracking-26/train/images
+val: Tracking-26/valid/images
